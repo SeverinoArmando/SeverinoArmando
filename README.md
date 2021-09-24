@@ -1,4 +1,4 @@
-## Olá! Severino Eyulu Armando é o meu nome.!
+## Olá! Severino Armando é o meu nome.!
 
 
 - 🔭 Estou fazendo de Desenvolvimento Web / Front-End e Back-End
