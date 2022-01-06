@@ -3,7 +3,7 @@
 
 - 🔭 Estou fazendo de Desenvolvimento Web / Front-End e Back-End
 - 🔭 Tenho conhecimento e continuo estudando: JavaScript, Java, HTML, CSS, Node.js, TypeScript, API-REST, Gerenciamento de Projeto, Git e GitHub,
-- 🔭 MongoDB, MySQL,SQLSERVER, SQLITE, PostgreSQL.
+- 🔭 MongoDB, MySQL,SQLSERVER, SQLITE, PostgreSQL, BootStrap,ReactJs.
 - 👯 Gosto de trabalhar em equipe
 
 <div align="center">
